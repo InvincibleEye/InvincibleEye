@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @InvincibleEye
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
